@@ -1,0 +1,120 @@
+Passenger 1 has arrived at the airport at time 1
+Passenger 1 has started self-check in  at kiosk 10 at time 1
+Passenger 1 has finished check in at kiosk 10 at time 3
+Passenger 1 has started waiting for security check in belt 1 from time 3
+Passenger 1 has started security check in belt 1 at time 3
+Passenger 2 has arrived at the airport at time 4
+Passenger 2 has started self-check in  at kiosk 10 at time 4
+Passenger 3 (VIP)  has arrived at the airport at time 6
+Passenger 1 has crossed the security check from belt 1 at time 6
+Passenger 3 (VIP)  has started self-check in  at kiosk 11 at time 6
+Passenger 1 has started waiting to be boarded at time 6
+Passenger 1 has started boarding the plane at time 6
+Passenger 2 has finished check in at kiosk 10 at time 8
+Passenger 2 has started waiting for security check in belt 3 from time 8
+Passenger 2 has started security check in belt 3 at time 8
+Passenger 3 (VIP)  has finished check in at kiosk 11 at time 10
+Passenger 3 (VIP)  started waiting at vip channel  to reach boarding gate at time 10
+Passenger 3 (VIP)  started moving through vip channel  to reach boarding gate at time 10
+Passenger 1 has boarded the plane at time 10
+Passenger 2 has crossed the security check from belt 3 at time 11
+Passenger 2 has lost the boarding pass hence sent back to vip channel at time 11
+Passenger 2 started waiting at vip channel to reach special kiosk at time 11
+Passenger 2 started moving through vip channel to reach special kiosk at time 11
+Passenger 4 (VIP)  has arrived at the airport at time 13
+Passenger 4 (VIP)  has started self-check in  at kiosk 10 at time 13
+Passenger 3 (VIP)  crossed vip channel  to reach boarding gate at time 13
+Passenger 3 (VIP)  has started waiting to be boarded at time 13
+Passenger 3 (VIP)  has started boarding the plane at time 13
+Passenger 2 crossed vip channel  to reach special kiosk at time 14
+Passenger 2 has started waiting to get a new boarding pass at special kiosk at time 14
+Passenger 2 is having a new boarding pass at special kiosk at time 14
+Passenger 4 (VIP)  has finished check in at kiosk 10 at time 17
+Passenger 4 (VIP)  started waiting at vip channel  to reach boarding gate at time 17
+Passenger 4 (VIP)  started moving through vip channel  to reach boarding gate at time 17
+Passenger 3 (VIP)  has boarded the plane at time 17
+Passenger 5 has arrived at the airport at time 18
+Passenger 5 has started self-check in  at kiosk 10 at time 18
+Passenger 2 has got a new boarding pass at special kiosk at time 18
+Passenger 2 started waiting at vip channel  to reach boarding gate at time 18
+Passenger 2 started moving through vip channel  to reach boarding gate at time 18
+Passenger 4 (VIP)  crossed vip channel  to reach boarding gate at time 20
+Passenger 4 (VIP)  has started waiting to be boarded at time 20
+Passenger 4 (VIP)  has started boarding the plane at time 20
+Passenger 2 crossed vip channel  to reach boarding gate at time 21
+Passenger 2 has started waiting to be boarded at time 21
+Passenger 2 has started boarding the plane at time 21
+Passenger 5 has finished check in at kiosk 10 at time 22
+Passenger 5 has started waiting for security check in belt 3 from time 22
+Passenger 5 has started security check in belt 3 at time 22
+Passenger 6 (VIP)  has arrived at the airport at time 24
+Passenger 4 (VIP)  has boarded the plane at time 24
+Passenger 6 (VIP)  has started self-check in  at kiosk 10 at time 24
+Passenger 5 has crossed the security check from belt 3 at time 25
+Passenger 2 has boarded the plane at time 25
+Passenger 5 has started waiting to be boarded at time 25
+Passenger 5 has started boarding the plane at time 25
+Passenger 6 (VIP)  has finished check in at kiosk 10 at time 28
+Passenger 7 has arrived at the airport at time 28
+Passenger 7 has started self-check in  at kiosk 10 at time 28
+Passenger 6 (VIP)  started waiting at vip channel  to reach boarding gate at time 28
+Passenger 6 (VIP)  started moving through vip channel  to reach boarding gate at time 28
+Passenger 5 has boarded the plane at time 29
+Passenger 6 (VIP)  crossed vip channel  to reach boarding gate at time 31
+Passenger 6 (VIP)  has started waiting to be boarded at time 31
+Passenger 6 (VIP)  has started boarding the plane at time 31
+Passenger 8 has arrived at the airport at time 32
+Passenger 7 has finished check in at kiosk 10 at time 32
+Passenger 8 has started self-check in  at kiosk 10 at time 32
+Passenger 7 has started waiting for security check in belt 2 from time 32
+Passenger 7 has started security check in belt 2 at time 32
+Passenger 6 (VIP)  has boarded the plane at time 35
+Passenger 7 has crossed the security check from belt 2 at time 35
+Passenger 7 has started waiting to be boarded at time 35
+Passenger 7 has started boarding the plane at time 35
+Passenger 8 has finished check in at kiosk 10 at time 36
+Passenger 8 has started waiting for security check in belt 2 from time 36
+Passenger 8 has started security check in belt 2 at time 36
+Passenger 9 has arrived at the airport at time 38
+Passenger 9 has started self-check in  at kiosk 10 at time 38
+Passenger 8 has crossed the security check from belt 2 at time 39
+Passenger 8 has lost the boarding pass hence sent back to vip channel at time 39
+Passenger 7 has boarded the plane at time 39
+Passenger 8 started waiting at vip channel to reach special kiosk at time 39
+Passenger 8 started moving through vip channel to reach special kiosk at time 39
+Passenger 9 has finished check in at kiosk 10 at time 42
+Passenger 9 has started waiting for security check in belt 1 from time 42
+Passenger 9 has started security check in belt 1 at time 42
+Passenger 8 crossed vip channel  to reach special kiosk at time 42
+Passenger 8 has started waiting to get a new boarding pass at special kiosk at time 42
+Passenger 8 is having a new boarding pass at special kiosk at time 42
+Passenger 10 has arrived at the airport at time 44
+Passenger 10 has started self-check in  at kiosk 10 at time 44
+Passenger 9 has crossed the security check from belt 1 at time 45
+Passenger 9 has started waiting to be boarded at time 45
+Passenger 9 has started boarding the plane at time 45
+Passenger 8 has got a new boarding pass at special kiosk at time 46
+Passenger 8 started waiting at vip channel  to reach boarding gate at time 46
+Passenger 8 started moving through vip channel  to reach boarding gate at time 46
+Passenger 10 has finished check in at kiosk 10 at time 48
+Passenger 10 has started waiting for security check in belt 2 from time 48
+Passenger 10 has started security check in belt 2 at time 48
+Passenger 9 has boarded the plane at time 49
+Passenger 8 crossed vip channel  to reach boarding gate at time 49
+Passenger 8 has started waiting to be boarded at time 49
+Passenger 8 has started boarding the plane at time 49
+Passenger 10 has crossed the security check from belt 2 at time 51
+Passenger 10 has lost the boarding pass hence sent back to vip channel at time 51
+Passenger 10 started waiting at vip channel to reach special kiosk at time 51
+Passenger 10 started moving through vip channel to reach special kiosk at time 51
+Passenger 8 has boarded the plane at time 53
+Passenger 10 crossed vip channel  to reach special kiosk at time 54
+Passenger 10 has started waiting to get a new boarding pass at special kiosk at time 54
+Passenger 10 is having a new boarding pass at special kiosk at time 54
+Passenger 10 has got a new boarding pass at special kiosk at time 58
+Passenger 10 started waiting at vip channel  to reach boarding gate at time 58
+Passenger 10 started moving through vip channel  to reach boarding gate at time 58
+Passenger 10 crossed vip channel  to reach boarding gate at time 61
+Passenger 10 has started waiting to be boarded at time 61
+Passenger 10 has started boarding the plane at time 61
+Passenger 10 has boarded the plane at time 65
